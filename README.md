@@ -1,14 +1,16 @@
 # _*Olá, Mundo!*_
  ***
- #primeiro repositório versionado
+ ## primeiro repositório versionado
 
- Repositório criado para teste.
+ ### Repositório criado para teste.
  
  **Essa linha eu adicionei no site direto, ~impressionante~**
- 1.Teste
- 1.Teste1
+
+1. Teste
+ 1. Teste1
     TesteSub
-*Teste3
-    TesteSub2
+
+* Teste3
+   * TesteSub2
 -[] ver como fica
 
