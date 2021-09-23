@@ -13,5 +13,6 @@
 * Teste3
    * TesteSub2
 
--[ ] ver como fica
-
+- [ ] ver como fica
+- [ ] ver como fica
+- [ ] ver como fica
